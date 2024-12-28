@@ -1,0 +1,1 @@
+An energy consumption forecasting tool is software or a system designed to predict future energy usage based on historical data, patterns, and influencing factors. These tools are widely used in energy management, utility planning, and sustainability efforts to optimize energy usage, reduce costs, and plan for future energy needs.
